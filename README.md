@@ -30,6 +30,8 @@ endmodule
 
 
 ## TestBench Program
+
+
 module tb;
     reg A, B;
     wire F;
@@ -57,10 +59,6 @@ module tb;
     end
 
 endmodule
-
-
-
-
 
 
 
