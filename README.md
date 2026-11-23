@@ -28,7 +28,6 @@ output wire F
 assign F = (~A) | B ;    // F = A' + B 
 endmodule
 
-
 ## TestBench Program
 
 
