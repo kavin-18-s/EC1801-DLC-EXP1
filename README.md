@@ -117,7 +117,8 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-<img width="1279" height="697" alt="WhatsApp Image 2026-11-23 at 9 28 30 PM" src="https://github.com/user-attachments/assets/4b2526a7-b158-4102-b88f-5e791f6925aa" />
+
+<img width="1279" height="697" alt="dlcd exp 1" src="https://github.com/user-attachments/assets/f139fa50-6e87-4dab-a583-1630d4a1bcd1" />
 
 
 
